@@ -39,5 +39,5 @@ To run this project, you'll need to have the following software installed:
    ```bash
    mkdir -p ~/catkin_ws/src
    cd ~/catkin_ws/src
-
-
+   
+3. **Copy the `src` Folder**
