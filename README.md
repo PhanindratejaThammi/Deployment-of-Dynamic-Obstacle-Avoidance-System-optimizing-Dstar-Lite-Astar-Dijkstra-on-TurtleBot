@@ -59,18 +59,22 @@ To run this project, you'll need to have the following software installed:
 6. **Launch the Simulation**
    Launch the Gazebo simulation and the TurtleBot setup using the following commands:
 
-   (a) To launch the world with the TurtleBot:
-       ```bash
-       roslaunch ros_world Turtlebot3_world_RL.launch
+   - **(a) To launch the world with the TurtleBot:**
+     ```bash
+     roslaunch ros_world Turtlebot3_world_RL.launch
+     ```
 
-   (b) To launch SLAM (Simultaneous Localization and Mapping) for obstacle detection:
-       ```bash
-       roslaunch turtlebot3_slam turtlebot3_gmapping_RL.launch
-   
-   (c) To run the path planning algorithm:
-       ```bash
-       python3 <filename>.py
-8. **Provide Goal to the TurtleBot**
+   - **(b) To launch SLAM (Simultaneous Localization and Mapping) for obstacle detection:**
+     ```bash
+     roslaunch turtlebot3_slam turtlebot3_gmapping_RL.launch
+     ```
+
+   - **(c) To run the path planning algorithm:**
+     ```bash
+     python3 path_planning.py
+     ```
+
+7. **Provide Goal to the TurtleBot**
    After running the above commands, use Rviz to set the goal point for the robot. Click on the "2D Nav Goal" button in Rviz to set the destination for the robot.
 
 ## Demo Video
