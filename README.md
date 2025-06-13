@@ -1,1 +1,1 @@
-# Deployment-of-Dynamic-Obstacle-Avoidance-System-optimizing-Dstar-Lite-Astar-Dijkstra-on-TurtleBot
+# Deployment of Dynamic Obstacle Avoidance System optimizing Dstar Lite Astar Dijkstra on TurtleBot.
