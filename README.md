@@ -71,7 +71,7 @@ To run this project, you'll need to have the following software installed:
 
    - **(c) To run the path planning algorithm:**
      ```bash
-     python3 path_planning.py
+     python3 <filename>.py
      ```
 
 7. **Provide Goal to the TurtleBot**
