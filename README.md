@@ -9,7 +9,6 @@ This repository contains the implementation of a dynamic obstacle avoidance syst
 4. [Demo Video](#demo-video)
 5. [Algorithms Used](#algorithms-used)
 6. [Results and Comparison](#results-and-comparison)
-7. [License](#license)
 
 ## Introduction
 
