@@ -13,7 +13,7 @@ This repository contains the implementation of a dynamic obstacle avoidance syst
 
 ## Introduction
 
-This project implements and compares the performance of four path planning algorithms — D*-Lite, A*, Dijkstra, and RRT — for dynamic obstacle avoidance in autonomous robots. The unique contribution of this work is the introduction of a custom cost function for D*-Lite, balancing robot safety (distance from obstacles) and the time to reach the goal. 
+This project implements and compares the performance of four path planning algorithms: D*-Lite, A*, Dijkstra, and RRT for dynamic obstacle avoidance in autonomous robots. The unique contribution of this work is the introduction of a custom cost function for D*-Lite, balancing robot safety (distance from obstacles) and the time to reach the goal. 
 
 The system was tested in a Gazebo simulation environment with a TurtleBot robot, showcasing the real-time adaptation to dynamic obstacles and comparing the performance of these algorithms in terms of safety, path efficiency, and computational cost.
 
