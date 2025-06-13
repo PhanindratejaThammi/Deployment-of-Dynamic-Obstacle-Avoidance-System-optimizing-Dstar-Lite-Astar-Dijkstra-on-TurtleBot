@@ -34,3 +34,10 @@ To run this project, you'll need to have the following software installed:
    git clone https://github.com/PhanindratejaThammi/Deployment-of-Dynamic-Obstacle-Avoidance-System-optimizing-Dstar-Lite-Astar-Dijkstra-on-TurtleBot.git
    cd Deployment-of-Dynamic-Obstacle-Avoidance-System-optimizing-Dstar-Lite-Astar-Dijkstra-on-TurtleBot
 
+2. **Create a Workspace**
+   If you don't have an existing ROS workspace, create one:
+   ```bash
+   mkdir -p ~/catkin_ws/src
+   cd ~/catkin_ws/src
+
+
